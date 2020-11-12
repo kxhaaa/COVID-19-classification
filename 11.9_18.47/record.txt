@@ -1,0 +1,1503 @@
+Epoch 0,Training Loss:54.11%,Validation Loss:56.57%,accuracy:71.88%
+    F1 socre:0.5000, AUC:0.1746, Trainset AUC:0.5277
+
+Epoch 1,Training Loss:36.37%,Validation Loss:43.30%,accuracy:85.16%
+    F1 socre:0.8348, AUC:0.7808, Trainset AUC:0.5856
+
+Epoch 2,Training Loss:23.66%,Validation Loss:56.56%,accuracy:73.44%
+    F1 socre:0.5000, AUC:0.1400, Trainset AUC:0.6306
+
+Epoch 3,Training Loss:15.59%,Validation Loss:32.76%,accuracy:87.50%
+    F1 socre:0.8462, AUC:0.4832, Trainset AUC:0.6902
+
+Epoch 4,Training Loss:16.05%,Validation Loss:31.17%,accuracy:88.28%
+    F1 socre:0.8696, AUC:0.7143, Trainset AUC:0.7021
+
+Epoch 5,Training Loss:20.91%,Validation Loss:42.59%,accuracy:82.03%
+    F1 socre:0.8099, AUC:0.8668, Trainset AUC:0.6702
+
+Epoch 6,Training Loss:14.18%,Validation Loss:30.33%,accuracy:86.72%
+    F1 socre:0.8350, AUC:0.8141, Trainset AUC:0.6745
+
+Epoch 7,Training Loss:13.29%,Validation Loss:19.36%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.6874, Trainset AUC:0.6824
+
+Epoch 8,Training Loss:12.17%,Validation Loss:22.59%,accuracy:90.62%
+    F1 socre:0.8868, AUC:0.5283, Trainset AUC:0.7209
+
+Epoch 9,Training Loss:11.80%,Validation Loss:33.39%,accuracy:85.16%
+    F1 socre:0.8504, AUC:0.8087, Trainset AUC:0.7134
+
+Epoch 10,Training Loss:11.45%,Validation Loss:41.39%,accuracy:78.91%
+    F1 socre:0.7970, AUC:0.8764, Trainset AUC:0.6618
+
+Epoch 11,Training Loss:7.60%,Validation Loss:30.05%,accuracy:89.06%
+    F1 socre:0.8511, AUC:0.3018, Trainset AUC:0.7287
+
+Epoch 12,Training Loss:9.53%,Validation Loss:25.93%,accuracy:89.06%
+    F1 socre:0.8727, AUC:0.6914, Trainset AUC:0.7243
+
+Epoch 13,Training Loss:8.99%,Validation Loss:43.01%,accuracy:85.94%
+    F1 socre:0.8000, AUC:0.4676, Trainset AUC:0.7161
+
+Epoch 14,Training Loss:10.94%,Validation Loss:18.32%,accuracy:95.31%
+    F1 socre:0.9434, AUC:0.6728, Trainset AUC:0.7137
+
+Epoch 15,Training Loss:9.72%,Validation Loss:32.26%,accuracy:87.50%
+    F1 socre:0.8049, AUC:0.3945, Trainset AUC:0.6808
+
+Epoch 16,Training Loss:9.40%,Validation Loss:30.97%,accuracy:88.28%
+    F1 socre:0.8624, AUC:0.6052, Trainset AUC:0.6924
+
+Epoch 17,Training Loss:7.53%,Validation Loss:18.00%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.6835, Trainset AUC:0.7026
+
+Epoch 18,Training Loss:9.42%,Validation Loss:33.30%,accuracy:86.72%
+    F1 socre:0.8211, AUC:0.4757, Trainset AUC:0.6749
+
+Epoch 19,Training Loss:9.07%,Validation Loss:43.46%,accuracy:84.38%
+    F1 socre:0.8387, AUC:0.7061, Trainset AUC:0.6666
+
+Epoch 20,Training Loss:11.07%,Validation Loss:30.65%,accuracy:90.62%
+    F1 socre:0.8889, AUC:0.7298, Trainset AUC:0.6512
+
+Epoch 21,Training Loss:10.10%,Validation Loss:27.61%,accuracy:89.06%
+    F1 socre:0.8654, AUC:0.6045, Trainset AUC:0.6798
+
+Epoch 22,Training Loss:11.70%,Validation Loss:28.05%,accuracy:87.50%
+    F1 socre:0.8182, AUC:0.4520, Trainset AUC:0.6382
+
+Epoch 23,Training Loss:6.45%,Validation Loss:42.72%,accuracy:82.03%
+    F1 socre:0.8000, AUC:0.8438, Trainset AUC:0.6823
+
+Epoch 24,Training Loss:8.74%,Validation Loss:28.93%,accuracy:87.50%
+    F1 socre:0.8519, AUC:0.6674, Trainset AUC:0.6698
+
+Epoch 25,Training Loss:8.83%,Validation Loss:17.52%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.6364, Trainset AUC:0.6468
+
+Epoch 26,Training Loss:8.45%,Validation Loss:24.80%,accuracy:91.41%
+    F1 socre:0.9009, AUC:0.7252, Trainset AUC:0.6860
+
+Epoch 27,Training Loss:6.06%,Validation Loss:15.99%,accuracy:95.31%
+    F1 socre:0.9388, AUC:0.5847, Trainset AUC:0.7095
+
+Epoch 28,Training Loss:2.60%,Validation Loss:13.49%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8072, Trainset AUC:0.7568
+
+Epoch 29,Training Loss:3.24%,Validation Loss:25.41%,accuracy:90.62%
+    F1 socre:0.8750, AUC:0.3530, Trainset AUC:0.6910
+
+Epoch 30,Training Loss:3.05%,Validation Loss:16.25%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.6769, Trainset AUC:0.7514
+
+Epoch 31,Training Loss:2.94%,Validation Loss:15.99%,accuracy:96.09%
+    F1 socre:0.9533, AUC:0.5390, Trainset AUC:0.7791
+
+Epoch 32,Training Loss:1.93%,Validation Loss:24.53%,accuracy:91.41%
+    F1 socre:0.9060, AUC:0.8782, Trainset AUC:0.7184
+
+Epoch 33,Training Loss:4.59%,Validation Loss:48.41%,accuracy:83.59%
+    F1 socre:0.7470, AUC:0.2121, Trainset AUC:0.7534
+
+Epoch 34,Training Loss:4.68%,Validation Loss:31.77%,accuracy:87.50%
+    F1 socre:0.8596, AUC:0.8101, Trainset AUC:0.7325
+
+Epoch 35,Training Loss:4.23%,Validation Loss:48.05%,accuracy:82.03%
+    F1 socre:0.8271, AUC:0.8810, Trainset AUC:0.7340
+
+Epoch 36,Training Loss:1.59%,Validation Loss:31.91%,accuracy:89.84%
+    F1 socre:0.8785, AUC:0.7940, Trainset AUC:0.7246
+
+Epoch 37,Training Loss:5.78%,Validation Loss:23.30%,accuracy:91.41%
+    F1 socre:0.8932, AUC:0.6191, Trainset AUC:0.7727
+
+Epoch 38,Training Loss:5.66%,Validation Loss:35.73%,accuracy:87.50%
+    F1 socre:0.8710, AUC:0.8518, Trainset AUC:0.6516
+
+Epoch 39,Training Loss:3.42%,Validation Loss:30.15%,accuracy:90.62%
+    F1 socre:0.8800, AUC:0.6236, Trainset AUC:0.7149
+
+Epoch 40,Training Loss:2.52%,Validation Loss:30.74%,accuracy:90.62%
+    F1 socre:0.8605, AUC:0.4374, Trainset AUC:0.7474
+
+Epoch 41,Training Loss:8.04%,Validation Loss:32.42%,accuracy:89.06%
+    F1 socre:0.8704, AUC:0.8374, Trainset AUC:0.7438
+
+Epoch 42,Training Loss:5.85%,Validation Loss:35.65%,accuracy:85.94%
+    F1 socre:0.8571, AUC:0.8232, Trainset AUC:0.6925
+
+Epoch 43,Training Loss:3.82%,Validation Loss:20.42%,accuracy:92.97%
+    F1 socre:0.9231, AUC:0.7966, Trainset AUC:0.6750
+
+Epoch 44,Training Loss:2.89%,Validation Loss:18.95%,accuracy:92.97%
+    F1 socre:0.9109, AUC:0.7341, Trainset AUC:0.7089
+
+Epoch 45,Training Loss:1.54%,Validation Loss:26.34%,accuracy:91.41%
+    F1 socre:0.8842, AUC:0.4949, Trainset AUC:0.7306
+
+Epoch 46,Training Loss:1.03%,Validation Loss:15.48%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.7606, Trainset AUC:0.7639
+
+Epoch 47,Training Loss:3.47%,Validation Loss:15.45%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.7700, Trainset AUC:0.7127
+
+Epoch 48,Training Loss:11.57%,Validation Loss:48.06%,accuracy:87.50%
+    F1 socre:0.8333, AUC:0.2708, Trainset AUC:0.6371
+
+Epoch 49,Training Loss:6.29%,Validation Loss:19.61%,accuracy:93.75%
+    F1 socre:0.9286, AUC:0.7673, Trainset AUC:0.6526
+
+Epoch 50,Training Loss:2.55%,Validation Loss:19.66%,accuracy:90.62%
+    F1 socre:0.8868, AUC:0.7497, Trainset AUC:0.7134
+
+Epoch 51,Training Loss:1.91%,Validation Loss:20.89%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.5494, Trainset AUC:0.7139
+
+Epoch 52,Training Loss:0.89%,Validation Loss:21.94%,accuracy:91.41%
+    F1 socre:0.9027, AUC:0.7514, Trainset AUC:0.7543
+
+Epoch 53,Training Loss:1.63%,Validation Loss:16.19%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.7425, Trainset AUC:0.6752
+
+Epoch 54,Training Loss:1.23%,Validation Loss:19.38%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.7052, Trainset AUC:0.7928
+
+Epoch 55,Training Loss:4.77%,Validation Loss:29.85%,accuracy:90.62%
+    F1 socre:0.8800, AUC:0.6325, Trainset AUC:0.6866
+
+Epoch 56,Training Loss:5.55%,Validation Loss:27.32%,accuracy:88.28%
+    F1 socre:0.8673, AUC:0.6084, Trainset AUC:0.6991
+
+Epoch 57,Training Loss:2.50%,Validation Loss:21.18%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.6088, Trainset AUC:0.6530
+
+Epoch 58,Training Loss:0.88%,Validation Loss:26.92%,accuracy:91.41%
+    F1 socre:0.8991, AUC:0.6996, Trainset AUC:0.7427
+
+Epoch 59,Training Loss:2.62%,Validation Loss:25.34%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.6202, Trainset AUC:0.6694
+
+Epoch 60,Training Loss:2.97%,Validation Loss:17.85%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.7748, Trainset AUC:0.7247
+
+Epoch 61,Training Loss:1.97%,Validation Loss:22.22%,accuracy:90.62%
+    F1 socre:0.8889, AUC:0.8125, Trainset AUC:0.6734
+
+Epoch 62,Training Loss:2.03%,Validation Loss:24.80%,accuracy:91.41%
+    F1 socre:0.8932, AUC:0.7233, Trainset AUC:0.7287
+
+Epoch 63,Training Loss:2.59%,Validation Loss:23.94%,accuracy:89.84%
+    F1 socre:0.8713, AUC:0.7776, Trainset AUC:0.6937
+
+Epoch 64,Training Loss:2.18%,Validation Loss:18.63%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.7318, Trainset AUC:0.7557
+
+Epoch 65,Training Loss:1.26%,Validation Loss:22.16%,accuracy:92.19%
+    F1 socre:0.8864, AUC:0.4984, Trainset AUC:0.7641
+
+Epoch 66,Training Loss:0.67%,Validation Loss:22.95%,accuracy:92.19%
+    F1 socre:0.9123, AUC:0.6113, Trainset AUC:0.7645
+
+Epoch 67,Training Loss:0.68%,Validation Loss:15.10%,accuracy:92.97%
+    F1 socre:0.9091, AUC:0.6364, Trainset AUC:0.7585
+
+Epoch 68,Training Loss:0.89%,Validation Loss:18.38%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.7279, Trainset AUC:0.7790
+
+Epoch 69,Training Loss:0.63%,Validation Loss:19.18%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.7680, Trainset AUC:0.7529
+
+Epoch 70,Training Loss:0.88%,Validation Loss:17.63%,accuracy:92.97%
+    F1 socre:0.9053, AUC:0.7052, Trainset AUC:0.6952
+
+Epoch 71,Training Loss:0.95%,Validation Loss:23.25%,accuracy:92.19%
+    F1 socre:0.9020, AUC:0.7610, Trainset AUC:0.7630
+
+Epoch 72,Training Loss:0.80%,Validation Loss:23.57%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8052, Trainset AUC:0.7280
+
+Epoch 73,Training Loss:2.33%,Validation Loss:39.78%,accuracy:88.28%
+    F1 socre:0.8598, AUC:0.7148, Trainset AUC:0.7289
+
+Epoch 74,Training Loss:0.82%,Validation Loss:31.75%,accuracy:89.84%
+    F1 socre:0.8762, AUC:0.7685, Trainset AUC:0.7531
+
+Epoch 75,Training Loss:0.71%,Validation Loss:29.64%,accuracy:92.19%
+    F1 socre:0.8980, AUC:0.6106, Trainset AUC:0.7647
+
+Epoch 76,Training Loss:0.57%,Validation Loss:35.29%,accuracy:89.84%
+    F1 socre:0.8807, AUC:0.7093, Trainset AUC:0.7598
+
+Epoch 77,Training Loss:0.81%,Validation Loss:27.48%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.7710, Trainset AUC:0.7024
+
+Epoch 78,Training Loss:1.54%,Validation Loss:21.61%,accuracy:94.53%
+    F1 socre:0.9247, AUC:0.6669, Trainset AUC:0.7621
+
+Epoch 79,Training Loss:0.73%,Validation Loss:33.70%,accuracy:88.28%
+    F1 socre:0.8485, AUC:0.7295, Trainset AUC:0.7242
+
+Epoch 80,Training Loss:1.99%,Validation Loss:37.60%,accuracy:88.28%
+    F1 socre:0.8649, AUC:0.6523, Trainset AUC:0.6967
+
+Epoch 81,Training Loss:1.38%,Validation Loss:37.36%,accuracy:91.41%
+    F1 socre:0.8991, AUC:0.8361, Trainset AUC:0.6995
+
+Epoch 82,Training Loss:1.80%,Validation Loss:38.37%,accuracy:89.06%
+    F1 socre:0.8679, AUC:0.7108, Trainset AUC:0.6866
+
+Epoch 83,Training Loss:0.90%,Validation Loss:27.50%,accuracy:91.41%
+    F1 socre:0.8932, AUC:0.6719, Trainset AUC:0.6633
+
+Epoch 84,Training Loss:1.05%,Validation Loss:38.69%,accuracy:89.06%
+    F1 socre:0.8571, AUC:0.4587, Trainset AUC:0.7227
+
+Epoch 85,Training Loss:1.13%,Validation Loss:48.92%,accuracy:86.72%
+    F1 socre:0.8411, AUC:0.8308, Trainset AUC:0.7633
+
+Epoch 86,Training Loss:6.00%,Validation Loss:34.13%,accuracy:90.62%
+    F1 socre:0.8889, AUC:0.4609, Trainset AUC:0.6998
+
+Epoch 87,Training Loss:0.90%,Validation Loss:24.14%,accuracy:90.62%
+    F1 socre:0.8889, AUC:0.6776, Trainset AUC:0.7417
+
+Epoch 88,Training Loss:0.98%,Validation Loss:37.73%,accuracy:89.84%
+    F1 socre:0.8602, AUC:0.5574, Trainset AUC:0.7575
+
+Epoch 89,Training Loss:1.30%,Validation Loss:28.65%,accuracy:91.41%
+    F1 socre:0.8842, AUC:0.5541, Trainset AUC:0.7121
+
+Epoch 90,Training Loss:0.45%,Validation Loss:18.05%,accuracy:95.31%
+    F1 socre:0.9400, AUC:0.7409, Trainset AUC:0.7479
+
+Epoch 91,Training Loss:0.60%,Validation Loss:20.91%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.7427, Trainset AUC:0.7307
+
+Epoch 92,Training Loss:0.58%,Validation Loss:27.97%,accuracy:91.41%
+    F1 socre:0.8932, AUC:0.6989, Trainset AUC:0.7157
+
+Epoch 93,Training Loss:0.55%,Validation Loss:27.20%,accuracy:92.97%
+    F1 socre:0.9109, AUC:0.6618, Trainset AUC:0.7316
+
+Epoch 94,Training Loss:0.40%,Validation Loss:19.26%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.6544, Trainset AUC:0.7580
+
+Epoch 95,Training Loss:0.45%,Validation Loss:32.67%,accuracy:90.62%
+    F1 socre:0.8846, AUC:0.6991, Trainset AUC:0.7481
+
+Epoch 96,Training Loss:0.35%,Validation Loss:29.56%,accuracy:91.41%
+    F1 socre:0.8932, AUC:0.7372, Trainset AUC:0.7635
+
+Epoch 97,Training Loss:0.45%,Validation Loss:25.43%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.7052, Trainset AUC:0.6582
+
+Epoch 98,Training Loss:1.93%,Validation Loss:24.96%,accuracy:92.19%
+    F1 socre:0.9000, AUC:0.6886, Trainset AUC:0.7096
+
+Epoch 99,Training Loss:0.71%,Validation Loss:22.26%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.6567, Trainset AUC:0.6891
+
+Epoch 100,Training Loss:0.43%,Validation Loss:23.48%,accuracy:93.75%
+    F1 socre:0.9200, AUC:0.6580, Trainset AUC:0.7353
+
+Epoch 101,Training Loss:1.91%,Validation Loss:37.23%,accuracy:90.62%
+    F1 socre:0.8929, AUC:0.8370, Trainset AUC:0.7411
+
+Epoch 102,Training Loss:2.78%,Validation Loss:41.85%,accuracy:88.28%
+    F1 socre:0.8352, AUC:0.6539, Trainset AUC:0.6734
+
+Epoch 103,Training Loss:3.08%,Validation Loss:11.97%,accuracy:95.31%
+    F1 socre:0.9412, AUC:0.6807, Trainset AUC:0.7300
+
+Epoch 104,Training Loss:1.96%,Validation Loss:22.61%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8456, Trainset AUC:0.6631
+
+Epoch 105,Training Loss:0.35%,Validation Loss:23.43%,accuracy:92.97%
+    F1 socre:0.9072, AUC:0.8466, Trainset AUC:0.7475
+
+Epoch 106,Training Loss:0.50%,Validation Loss:16.70%,accuracy:96.09%
+    F1 socre:0.9505, AUC:0.8807, Trainset AUC:0.7238
+
+Epoch 107,Training Loss:0.69%,Validation Loss:17.36%,accuracy:95.31%
+    F1 socre:0.9434, AUC:0.7720, Trainset AUC:0.6864
+
+Epoch 108,Training Loss:0.31%,Validation Loss:19.89%,accuracy:96.09%
+    F1 socre:0.9541, AUC:0.8081, Trainset AUC:0.7535
+
+Epoch 109,Training Loss:1.62%,Validation Loss:17.80%,accuracy:92.19%
+    F1 socre:0.9107, AUC:0.6812, Trainset AUC:0.7495
+
+Epoch 110,Training Loss:0.64%,Validation Loss:20.56%,accuracy:93.75%
+    F1 socre:0.9286, AUC:0.8692, Trainset AUC:0.6959
+
+Epoch 111,Training Loss:0.82%,Validation Loss:15.22%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.8709, Trainset AUC:0.6498
+
+Epoch 112,Training Loss:0.31%,Validation Loss:19.90%,accuracy:92.97%
+    F1 socre:0.9126, AUC:0.8355, Trainset AUC:0.7139
+
+Epoch 113,Training Loss:0.44%,Validation Loss:13.54%,accuracy:94.53%
+    F1 socre:0.9307, AUC:0.7830, Trainset AUC:0.7373
+
+Epoch 114,Training Loss:0.55%,Validation Loss:21.10%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.8559, Trainset AUC:0.7027
+
+Epoch 115,Training Loss:0.45%,Validation Loss:25.30%,accuracy:92.97%
+    F1 socre:0.9204, AUC:0.8971, Trainset AUC:0.7089
+
+Epoch 116,Training Loss:0.39%,Validation Loss:17.20%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.8621, Trainset AUC:0.6918
+
+Epoch 117,Training Loss:0.41%,Validation Loss:18.91%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8984, Trainset AUC:0.7466
+
+Epoch 118,Training Loss:0.38%,Validation Loss:17.41%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.8302, Trainset AUC:0.6861
+
+Epoch 119,Training Loss:0.46%,Validation Loss:11.95%,accuracy:95.31%
+    F1 socre:0.9412, AUC:0.7795, Trainset AUC:0.7589
+
+Epoch 120,Training Loss:0.37%,Validation Loss:18.12%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8683, Trainset AUC:0.6881
+
+Epoch 121,Training Loss:0.34%,Validation Loss:17.49%,accuracy:92.97%
+    F1 socre:0.9217, AUC:0.8431, Trainset AUC:0.7681
+
+Epoch 122,Training Loss:0.31%,Validation Loss:16.78%,accuracy:94.53%
+    F1 socre:0.9293, AUC:0.8898, Trainset AUC:0.7091
+
+Epoch 123,Training Loss:0.37%,Validation Loss:19.23%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8040, Trainset AUC:0.6760
+
+Epoch 124,Training Loss:0.34%,Validation Loss:20.68%,accuracy:92.97%
+    F1 socre:0.9072, AUC:0.8723, Trainset AUC:0.7026
+
+Epoch 125,Training Loss:1.46%,Validation Loss:18.99%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.6099, Trainset AUC:0.7200
+
+Epoch 126,Training Loss:0.48%,Validation Loss:25.27%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8036, Trainset AUC:0.7342
+
+Epoch 127,Training Loss:1.02%,Validation Loss:16.79%,accuracy:95.31%
+    F1 socre:0.9464, AUC:0.8847, Trainset AUC:0.6691
+
+Epoch 128,Training Loss:0.42%,Validation Loss:21.18%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8410, Trainset AUC:0.6778
+
+Epoch 129,Training Loss:0.82%,Validation Loss:14.48%,accuracy:95.31%
+    F1 socre:0.9400, AUC:0.7382, Trainset AUC:0.7166
+
+Epoch 130,Training Loss:0.65%,Validation Loss:19.46%,accuracy:95.31%
+    F1 socre:0.9412, AUC:0.8123, Trainset AUC:0.6951
+
+Epoch 131,Training Loss:0.32%,Validation Loss:24.55%,accuracy:92.19%
+    F1 socre:0.9091, AUC:0.8155, Trainset AUC:0.7728
+
+Epoch 132,Training Loss:0.43%,Validation Loss:16.18%,accuracy:94.53%
+    F1 socre:0.9320, AUC:0.8819, Trainset AUC:0.6759
+
+Epoch 133,Training Loss:0.35%,Validation Loss:15.93%,accuracy:96.88%
+    F1 socre:0.9643, AUC:0.8608, Trainset AUC:0.7001
+
+Epoch 134,Training Loss:0.33%,Validation Loss:19.36%,accuracy:95.31%
+    F1 socre:0.9455, AUC:0.8281, Trainset AUC:0.7194
+
+Epoch 135,Training Loss:0.43%,Validation Loss:22.74%,accuracy:95.31%
+    F1 socre:0.9388, AUC:0.8750, Trainset AUC:0.7516
+
+Epoch 136,Training Loss:0.29%,Validation Loss:27.08%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8581, Trainset AUC:0.7077
+
+Epoch 137,Training Loss:0.32%,Validation Loss:26.31%,accuracy:94.53%
+    F1 socre:0.9358, AUC:0.9046, Trainset AUC:0.7216
+
+Epoch 138,Training Loss:0.24%,Validation Loss:26.29%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8546, Trainset AUC:0.7956
+
+Epoch 139,Training Loss:0.36%,Validation Loss:25.76%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8342, Trainset AUC:0.7096
+
+Epoch 140,Training Loss:0.31%,Validation Loss:26.32%,accuracy:92.97%
+    F1 socre:0.9109, AUC:0.8318, Trainset AUC:0.7693
+
+Epoch 141,Training Loss:0.26%,Validation Loss:15.57%,accuracy:96.09%
+    F1 socre:0.9550, AUC:0.8309, Trainset AUC:0.7366
+
+Epoch 142,Training Loss:0.24%,Validation Loss:13.08%,accuracy:96.88%
+    F1 socre:0.9636, AUC:0.8559, Trainset AUC:0.7081
+
+Epoch 143,Training Loss:0.44%,Validation Loss:28.93%,accuracy:92.19%
+    F1 socre:0.9091, AUC:0.9018, Trainset AUC:0.6951
+
+Epoch 144,Training Loss:0.27%,Validation Loss:25.03%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.8181, Trainset AUC:0.6908
+
+Epoch 145,Training Loss:0.34%,Validation Loss:27.35%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.8826, Trainset AUC:0.7521
+
+Epoch 146,Training Loss:0.21%,Validation Loss:18.22%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8513, Trainset AUC:0.8082
+
+Epoch 147,Training Loss:0.29%,Validation Loss:21.42%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8581, Trainset AUC:0.7385
+
+Epoch 148,Training Loss:0.38%,Validation Loss:22.11%,accuracy:94.53%
+    F1 socre:0.9358, AUC:0.8757, Trainset AUC:0.7176
+
+Epoch 149,Training Loss:0.22%,Validation Loss:24.77%,accuracy:92.97%
+    F1 socre:0.9204, AUC:0.8269, Trainset AUC:0.7919
+
+Epoch 150,Training Loss:0.27%,Validation Loss:21.26%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.8287, Trainset AUC:0.6818
+
+Epoch 151,Training Loss:0.25%,Validation Loss:25.85%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8215, Trainset AUC:0.7730
+
+Epoch 152,Training Loss:0.31%,Validation Loss:23.41%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8408, Trainset AUC:0.6646
+
+Epoch 153,Training Loss:0.36%,Validation Loss:21.12%,accuracy:93.75%
+    F1 socre:0.9286, AUC:0.6775, Trainset AUC:0.7361
+
+Epoch 154,Training Loss:0.30%,Validation Loss:28.32%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.8472, Trainset AUC:0.7008
+
+Epoch 155,Training Loss:0.26%,Validation Loss:26.46%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8493, Trainset AUC:0.6629
+
+Epoch 156,Training Loss:0.35%,Validation Loss:23.30%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8948, Trainset AUC:0.6982
+
+Epoch 157,Training Loss:0.19%,Validation Loss:26.22%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8201, Trainset AUC:0.8017
+
+Epoch 158,Training Loss:0.24%,Validation Loss:25.35%,accuracy:92.97%
+    F1 socre:0.9126, AUC:0.7797, Trainset AUC:0.7230
+
+Epoch 159,Training Loss:0.20%,Validation Loss:23.22%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8849, Trainset AUC:0.7549
+
+Epoch 160,Training Loss:0.18%,Validation Loss:23.44%,accuracy:93.75%
+    F1 socre:0.9200, AUC:0.7941, Trainset AUC:0.7705
+
+Epoch 161,Training Loss:0.20%,Validation Loss:25.66%,accuracy:92.97%
+    F1 socre:0.9109, AUC:0.8342, Trainset AUC:0.7652
+
+Epoch 162,Training Loss:0.16%,Validation Loss:23.51%,accuracy:92.97%
+    F1 socre:0.9109, AUC:0.8290, Trainset AUC:0.8441
+
+Epoch 163,Training Loss:0.30%,Validation Loss:17.40%,accuracy:95.31%
+    F1 socre:0.9412, AUC:0.8380, Trainset AUC:0.7523
+
+Epoch 164,Training Loss:0.23%,Validation Loss:22.65%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8551, Trainset AUC:0.7166
+
+Epoch 165,Training Loss:0.23%,Validation Loss:20.79%,accuracy:92.97%
+    F1 socre:0.9231, AUC:0.8790, Trainset AUC:0.7455
+
+Epoch 166,Training Loss:0.31%,Validation Loss:23.82%,accuracy:93.75%
+    F1 socre:0.9310, AUC:0.8113, Trainset AUC:0.7074
+
+Epoch 167,Training Loss:0.27%,Validation Loss:22.48%,accuracy:92.97%
+    F1 socre:0.9109, AUC:0.8256, Trainset AUC:0.6868
+
+Epoch 168,Training Loss:0.29%,Validation Loss:20.50%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8327, Trainset AUC:0.6662
+
+Epoch 169,Training Loss:0.17%,Validation Loss:26.03%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8462, Trainset AUC:0.7187
+
+Epoch 170,Training Loss:0.23%,Validation Loss:23.98%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8697, Trainset AUC:0.7307
+
+Epoch 171,Training Loss:0.30%,Validation Loss:24.23%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.8401, Trainset AUC:0.6937
+
+Epoch 172,Training Loss:0.20%,Validation Loss:23.15%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8699, Trainset AUC:0.7476
+
+Epoch 173,Training Loss:0.41%,Validation Loss:26.24%,accuracy:92.97%
+    F1 socre:0.9217, AUC:0.8912, Trainset AUC:0.7179
+
+Epoch 174,Training Loss:0.34%,Validation Loss:24.71%,accuracy:92.19%
+    F1 socre:0.9091, AUC:0.8932, Trainset AUC:0.6808
+
+Epoch 175,Training Loss:0.25%,Validation Loss:28.37%,accuracy:91.41%
+    F1 socre:0.8991, AUC:0.8717, Trainset AUC:0.7199
+
+Epoch 176,Training Loss:0.31%,Validation Loss:26.84%,accuracy:92.97%
+    F1 socre:0.9204, AUC:0.8897, Trainset AUC:0.6972
+
+Epoch 177,Training Loss:0.33%,Validation Loss:19.48%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.9041, Trainset AUC:0.7641
+
+Epoch 178,Training Loss:0.19%,Validation Loss:31.10%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.8895, Trainset AUC:0.7856
+
+Epoch 179,Training Loss:0.28%,Validation Loss:32.26%,accuracy:91.41%
+    F1 socre:0.8991, AUC:0.8952, Trainset AUC:0.7001
+
+Epoch 180,Training Loss:0.30%,Validation Loss:15.29%,accuracy:96.09%
+    F1 socre:0.9541, AUC:0.8496, Trainset AUC:0.6966
+
+Epoch 181,Training Loss:0.21%,Validation Loss:28.38%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.8604, Trainset AUC:0.6920
+
+Epoch 182,Training Loss:0.23%,Validation Loss:24.68%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8116, Trainset AUC:0.6703
+
+Epoch 183,Training Loss:0.25%,Validation Loss:25.91%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8609, Trainset AUC:0.6986
+
+Epoch 184,Training Loss:0.21%,Validation Loss:31.07%,accuracy:92.19%
+    F1 socre:0.9091, AUC:0.8737, Trainset AUC:0.7390
+
+Epoch 185,Training Loss:0.24%,Validation Loss:28.55%,accuracy:92.97%
+    F1 socre:0.9109, AUC:0.8427, Trainset AUC:0.7382
+
+Epoch 186,Training Loss:0.18%,Validation Loss:23.91%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8037, Trainset AUC:0.6874
+
+Epoch 187,Training Loss:0.28%,Validation Loss:26.13%,accuracy:93.75%
+    F1 socre:0.9298, AUC:0.8735, Trainset AUC:0.6918
+
+Epoch 188,Training Loss:0.21%,Validation Loss:28.53%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.8745, Trainset AUC:0.7373
+
+Epoch 189,Training Loss:0.29%,Validation Loss:25.75%,accuracy:92.97%
+    F1 socre:0.9126, AUC:0.8277, Trainset AUC:0.6721
+
+Epoch 190,Training Loss:0.36%,Validation Loss:25.72%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.8687, Trainset AUC:0.6530
+
+Epoch 191,Training Loss:0.23%,Validation Loss:20.53%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8755, Trainset AUC:0.7130
+
+Epoch 192,Training Loss:0.21%,Validation Loss:18.47%,accuracy:95.31%
+    F1 socre:0.9412, AUC:0.7820, Trainset AUC:0.7466
+
+Epoch 193,Training Loss:0.19%,Validation Loss:21.55%,accuracy:94.53%
+    F1 socre:0.9391, AUC:0.8507, Trainset AUC:0.7831
+
+Epoch 194,Training Loss:0.18%,Validation Loss:23.36%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8459, Trainset AUC:0.7235
+
+Epoch 195,Training Loss:0.25%,Validation Loss:23.54%,accuracy:94.53%
+    F1 socre:0.9307, AUC:0.8623, Trainset AUC:0.6877
+
+Epoch 196,Training Loss:0.22%,Validation Loss:22.13%,accuracy:94.53%
+    F1 socre:0.9369, AUC:0.8284, Trainset AUC:0.6804
+
+Epoch 197,Training Loss:0.24%,Validation Loss:12.08%,accuracy:96.88%
+    F1 socre:0.9600, AUC:0.8438, Trainset AUC:0.7231
+
+Epoch 198,Training Loss:0.22%,Validation Loss:24.25%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8702, Trainset AUC:0.7329
+
+Epoch 199,Training Loss:0.18%,Validation Loss:26.24%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8556, Trainset AUC:0.7778
+
+Epoch 200,Training Loss:0.28%,Validation Loss:26.51%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8403, Trainset AUC:0.7248
+
+Epoch 201,Training Loss:0.16%,Validation Loss:20.62%,accuracy:95.31%
+    F1 socre:0.9423, AUC:0.7487, Trainset AUC:0.7582
+
+Epoch 202,Training Loss:0.20%,Validation Loss:26.77%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.8438, Trainset AUC:0.7221
+
+Epoch 203,Training Loss:0.24%,Validation Loss:25.36%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.7439, Trainset AUC:0.6900
+
+Epoch 204,Training Loss:0.25%,Validation Loss:14.81%,accuracy:96.09%
+    F1 socre:0.9474, AUC:0.6830, Trainset AUC:0.6496
+
+Epoch 205,Training Loss:0.25%,Validation Loss:29.98%,accuracy:91.41%
+    F1 socre:0.8932, AUC:0.8876, Trainset AUC:0.7109
+
+Epoch 206,Training Loss:0.15%,Validation Loss:25.55%,accuracy:92.19%
+    F1 socre:0.9107, AUC:0.8646, Trainset AUC:0.7734
+
+Epoch 207,Training Loss:0.23%,Validation Loss:16.12%,accuracy:95.31%
+    F1 socre:0.9434, AUC:0.8507, Trainset AUC:0.6732
+
+Epoch 208,Training Loss:0.21%,Validation Loss:20.51%,accuracy:95.31%
+    F1 socre:0.9474, AUC:0.8661, Trainset AUC:0.7569
+
+Epoch 209,Training Loss:0.20%,Validation Loss:22.64%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8770, Trainset AUC:0.7264
+
+Epoch 210,Training Loss:0.20%,Validation Loss:25.84%,accuracy:93.75%
+    F1 socre:0.9298, AUC:0.8619, Trainset AUC:0.7814
+
+Epoch 211,Training Loss:0.24%,Validation Loss:23.83%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8194, Trainset AUC:0.6894
+
+Epoch 212,Training Loss:0.15%,Validation Loss:25.32%,accuracy:93.75%
+    F1 socre:0.9184, AUC:0.7656, Trainset AUC:0.7708
+
+Epoch 213,Training Loss:0.19%,Validation Loss:25.59%,accuracy:92.97%
+    F1 socre:0.9204, AUC:0.8533, Trainset AUC:0.7735
+
+Epoch 214,Training Loss:0.24%,Validation Loss:22.18%,accuracy:93.75%
+    F1 socre:0.9286, AUC:0.8794, Trainset AUC:0.6813
+
+Epoch 215,Training Loss:0.21%,Validation Loss:27.84%,accuracy:92.19%
+    F1 socre:0.9107, AUC:0.8821, Trainset AUC:0.7162
+
+Epoch 216,Training Loss:0.21%,Validation Loss:28.10%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.8730, Trainset AUC:0.7033
+
+Epoch 217,Training Loss:0.19%,Validation Loss:19.72%,accuracy:94.53%
+    F1 socre:0.9381, AUC:0.8313, Trainset AUC:0.7333
+
+Epoch 218,Training Loss:0.19%,Validation Loss:24.14%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8408, Trainset AUC:0.7986
+
+Epoch 219,Training Loss:0.23%,Validation Loss:25.51%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.8560, Trainset AUC:0.7251
+
+Epoch 220,Training Loss:0.18%,Validation Loss:23.87%,accuracy:92.97%
+    F1 socre:0.9204, AUC:0.8750, Trainset AUC:0.7509
+
+Epoch 221,Training Loss:0.28%,Validation Loss:21.85%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.7930, Trainset AUC:0.6350
+
+Epoch 222,Training Loss:0.16%,Validation Loss:17.00%,accuracy:94.53%
+    F1 socre:0.9369, AUC:0.8013, Trainset AUC:0.7363
+
+Epoch 223,Training Loss:0.26%,Validation Loss:24.82%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.7375, Trainset AUC:0.6606
+
+Epoch 224,Training Loss:0.19%,Validation Loss:23.55%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8070, Trainset AUC:0.6952
+
+Epoch 225,Training Loss:0.21%,Validation Loss:16.10%,accuracy:96.09%
+    F1 socre:0.9558, AUC:0.8284, Trainset AUC:0.7435
+
+Epoch 226,Training Loss:0.30%,Validation Loss:21.44%,accuracy:94.53%
+    F1 socre:0.9320, AUC:0.8617, Trainset AUC:0.7201
+
+Epoch 227,Training Loss:0.18%,Validation Loss:23.06%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8750, Trainset AUC:0.6664
+
+Epoch 228,Training Loss:0.21%,Validation Loss:17.90%,accuracy:95.31%
+    F1 socre:0.9412, AUC:0.8738, Trainset AUC:0.7047
+
+Epoch 229,Training Loss:0.22%,Validation Loss:23.76%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8330, Trainset AUC:0.6495
+
+Epoch 230,Training Loss:0.18%,Validation Loss:26.82%,accuracy:92.97%
+    F1 socre:0.9217, AUC:0.8817, Trainset AUC:0.7769
+
+Epoch 231,Training Loss:0.22%,Validation Loss:25.37%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8488, Trainset AUC:0.6863
+
+Epoch 232,Training Loss:0.29%,Validation Loss:24.03%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.6893, Trainset AUC:0.7154
+
+Epoch 233,Training Loss:0.35%,Validation Loss:23.78%,accuracy:92.97%
+    F1 socre:0.9204, AUC:0.7263, Trainset AUC:0.7174
+
+Epoch 234,Training Loss:0.19%,Validation Loss:27.10%,accuracy:92.19%
+    F1 socre:0.9123, AUC:0.8615, Trainset AUC:0.7380
+
+Epoch 235,Training Loss:0.41%,Validation Loss:22.26%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.7972, Trainset AUC:0.6352
+
+Epoch 236,Training Loss:0.31%,Validation Loss:23.03%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8324, Trainset AUC:0.7058
+
+Epoch 237,Training Loss:0.21%,Validation Loss:19.28%,accuracy:92.97%
+    F1 socre:0.9256, AUC:0.8778, Trainset AUC:0.7136
+
+Epoch 238,Training Loss:0.23%,Validation Loss:27.34%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.8907, Trainset AUC:0.6653
+
+Epoch 239,Training Loss:0.15%,Validation Loss:23.58%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.8846, Trainset AUC:0.7725
+
+Epoch 240,Training Loss:0.22%,Validation Loss:17.28%,accuracy:94.53%
+    F1 socre:0.9307, AUC:0.8356, Trainset AUC:0.7419
+
+Epoch 241,Training Loss:0.18%,Validation Loss:27.23%,accuracy:91.41%
+    F1 socre:0.9043, AUC:0.8702, Trainset AUC:0.7504
+
+Epoch 242,Training Loss:0.29%,Validation Loss:27.23%,accuracy:91.41%
+    F1 socre:0.8932, AUC:0.8734, Trainset AUC:0.6743
+
+Epoch 243,Training Loss:0.21%,Validation Loss:25.58%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8714, Trainset AUC:0.7094
+
+Epoch 244,Training Loss:0.38%,Validation Loss:17.04%,accuracy:95.31%
+    F1 socre:0.9434, AUC:0.8176, Trainset AUC:0.6622
+
+Epoch 245,Training Loss:0.23%,Validation Loss:26.54%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8449, Trainset AUC:0.7051
+
+Epoch 246,Training Loss:0.16%,Validation Loss:26.65%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8403, Trainset AUC:0.7156
+
+Epoch 247,Training Loss:0.24%,Validation Loss:26.39%,accuracy:92.97%
+    F1 socre:0.9204, AUC:0.8618, Trainset AUC:0.6752
+
+Epoch 248,Training Loss:0.21%,Validation Loss:25.04%,accuracy:92.97%
+    F1 socre:0.9126, AUC:0.8388, Trainset AUC:0.7004
+
+Epoch 249,Training Loss:0.24%,Validation Loss:21.52%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8267, Trainset AUC:0.6619
+
+Epoch 250,Training Loss:0.18%,Validation Loss:14.56%,accuracy:96.09%
+    F1 socre:0.9505, AUC:0.8636, Trainset AUC:0.7570
+
+Epoch 251,Training Loss:0.24%,Validation Loss:19.90%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8659, Trainset AUC:0.6863
+
+Epoch 252,Training Loss:0.19%,Validation Loss:19.64%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8616, Trainset AUC:0.7121
+
+Epoch 253,Training Loss:0.25%,Validation Loss:23.88%,accuracy:93.75%
+    F1 socre:0.9184, AUC:0.8164, Trainset AUC:0.6758
+
+Epoch 254,Training Loss:0.22%,Validation Loss:23.93%,accuracy:92.97%
+    F1 socre:0.9126, AUC:0.8100, Trainset AUC:0.7067
+
+Epoch 255,Training Loss:0.29%,Validation Loss:25.23%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.8073, Trainset AUC:0.6828
+
+Epoch 256,Training Loss:0.26%,Validation Loss:23.19%,accuracy:94.53%
+    F1 socre:0.9358, AUC:0.8206, Trainset AUC:0.6837
+
+Epoch 257,Training Loss:0.25%,Validation Loss:23.86%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8610, Trainset AUC:0.6773
+
+Epoch 258,Training Loss:0.18%,Validation Loss:22.44%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.8664, Trainset AUC:0.7350
+
+Epoch 259,Training Loss:0.14%,Validation Loss:17.74%,accuracy:95.31%
+    F1 socre:0.9412, AUC:0.8849, Trainset AUC:0.7828
+
+Epoch 260,Training Loss:0.19%,Validation Loss:26.80%,accuracy:92.97%
+    F1 socre:0.9126, AUC:0.8472, Trainset AUC:0.7410
+
+Epoch 261,Training Loss:0.17%,Validation Loss:19.14%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8760, Trainset AUC:0.7592
+
+Epoch 262,Training Loss:0.19%,Validation Loss:16.97%,accuracy:93.75%
+    F1 socre:0.9322, AUC:0.8579, Trainset AUC:0.7151
+
+Epoch 263,Training Loss:0.14%,Validation Loss:23.83%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8234, Trainset AUC:0.7645
+
+Epoch 264,Training Loss:0.24%,Validation Loss:22.12%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8235, Trainset AUC:0.7327
+
+Epoch 265,Training Loss:0.22%,Validation Loss:15.65%,accuracy:96.09%
+    F1 socre:0.9515, AUC:0.8796, Trainset AUC:0.6695
+
+Epoch 266,Training Loss:0.32%,Validation Loss:24.29%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8448, Trainset AUC:0.6770
+
+Epoch 267,Training Loss:0.29%,Validation Loss:21.55%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8421, Trainset AUC:0.7436
+
+Epoch 268,Training Loss:0.19%,Validation Loss:25.08%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.8639, Trainset AUC:0.6747
+
+Epoch 269,Training Loss:0.63%,Validation Loss:14.03%,accuracy:95.31%
+    F1 socre:0.9455, AUC:0.8519, Trainset AUC:0.6632
+
+Epoch 270,Training Loss:0.18%,Validation Loss:18.16%,accuracy:95.31%
+    F1 socre:0.9455, AUC:0.8376, Trainset AUC:0.7431
+
+Epoch 271,Training Loss:0.47%,Validation Loss:14.56%,accuracy:95.31%
+    F1 socre:0.9434, AUC:0.8259, Trainset AUC:0.7234
+
+Epoch 272,Training Loss:0.24%,Validation Loss:23.60%,accuracy:94.53%
+    F1 socre:0.9391, AUC:0.8879, Trainset AUC:0.6878
+
+Epoch 273,Training Loss:0.53%,Validation Loss:22.78%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8731, Trainset AUC:0.6538
+
+Epoch 274,Training Loss:0.18%,Validation Loss:11.97%,accuracy:96.09%
+    F1 socre:0.9524, AUC:0.7654, Trainset AUC:0.6736
+
+Epoch 275,Training Loss:0.19%,Validation Loss:19.88%,accuracy:94.53%
+    F1 socre:0.9307, AUC:0.7010, Trainset AUC:0.7110
+
+Epoch 276,Training Loss:0.19%,Validation Loss:16.40%,accuracy:94.53%
+    F1 socre:0.9358, AUC:0.8071, Trainset AUC:0.7548
+
+Epoch 277,Training Loss:0.20%,Validation Loss:17.88%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8464, Trainset AUC:0.6814
+
+Epoch 278,Training Loss:0.14%,Validation Loss:7.44%,accuracy:97.66%
+    F1 socre:0.9714, AUC:0.8578, Trainset AUC:0.8132
+
+Epoch 279,Training Loss:0.17%,Validation Loss:11.56%,accuracy:96.09%
+    F1 socre:0.9524, AUC:0.8439, Trainset AUC:0.7169
+
+Epoch 280,Training Loss:0.15%,Validation Loss:14.40%,accuracy:93.75%
+    F1 socre:0.9298, AUC:0.8702, Trainset AUC:0.7620
+
+Epoch 281,Training Loss:0.18%,Validation Loss:15.67%,accuracy:94.53%
+    F1 socre:0.9381, AUC:0.8994, Trainset AUC:0.7415
+
+Epoch 282,Training Loss:0.19%,Validation Loss:20.94%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8930, Trainset AUC:0.7427
+
+Epoch 283,Training Loss:0.20%,Validation Loss:16.89%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.8317, Trainset AUC:0.6847
+
+Epoch 284,Training Loss:0.18%,Validation Loss:16.21%,accuracy:95.31%
+    F1 socre:0.9412, AUC:0.8370, Trainset AUC:0.6903
+
+Epoch 285,Training Loss:0.19%,Validation Loss:21.16%,accuracy:93.75%
+    F1 socre:0.9310, AUC:0.8522, Trainset AUC:0.7532
+
+Epoch 286,Training Loss:0.30%,Validation Loss:19.66%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8674, Trainset AUC:0.6923
+
+Epoch 287,Training Loss:0.34%,Validation Loss:23.73%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8474, Trainset AUC:0.6545
+
+Epoch 288,Training Loss:0.24%,Validation Loss:12.84%,accuracy:96.09%
+    F1 socre:0.9533, AUC:0.7613, Trainset AUC:0.6770
+
+Epoch 289,Training Loss:0.17%,Validation Loss:18.77%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8563, Trainset AUC:0.7694
+
+Epoch 290,Training Loss:0.14%,Validation Loss:20.46%,accuracy:93.75%
+    F1 socre:0.9298, AUC:0.8410, Trainset AUC:0.7544
+
+Epoch 291,Training Loss:0.14%,Validation Loss:19.13%,accuracy:94.53%
+    F1 socre:0.9320, AUC:0.8411, Trainset AUC:0.7604
+
+Epoch 292,Training Loss:0.18%,Validation Loss:21.46%,accuracy:92.97%
+    F1 socre:0.9126, AUC:0.8405, Trainset AUC:0.7645
+
+Epoch 293,Training Loss:0.26%,Validation Loss:17.13%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.8397, Trainset AUC:0.5769
+
+Epoch 294,Training Loss:0.23%,Validation Loss:16.87%,accuracy:95.31%
+    F1 socre:0.9464, AUC:0.8521, Trainset AUC:0.7039
+
+Epoch 295,Training Loss:0.18%,Validation Loss:18.07%,accuracy:94.53%
+    F1 socre:0.9358, AUC:0.7745, Trainset AUC:0.6905
+
+Epoch 296,Training Loss:0.19%,Validation Loss:21.61%,accuracy:93.75%
+    F1 socre:0.9310, AUC:0.8209, Trainset AUC:0.7145
+
+Epoch 297,Training Loss:0.28%,Validation Loss:16.94%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8568, Trainset AUC:0.7021
+
+Epoch 298,Training Loss:0.20%,Validation Loss:19.91%,accuracy:94.53%
+    F1 socre:0.9381, AUC:0.8720, Trainset AUC:0.7384
+
+Epoch 299,Training Loss:0.20%,Validation Loss:20.48%,accuracy:93.75%
+    F1 socre:0.9200, AUC:0.8334, Trainset AUC:0.7509
+
+Epoch 300,Training Loss:0.69%,Validation Loss:19.90%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8327, Trainset AUC:0.6976
+
+Epoch 301,Training Loss:0.28%,Validation Loss:18.82%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8211, Trainset AUC:0.7199
+
+Epoch 302,Training Loss:0.16%,Validation Loss:20.92%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8433, Trainset AUC:0.7496
+
+Epoch 303,Training Loss:0.15%,Validation Loss:17.56%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8373, Trainset AUC:0.7606
+
+Epoch 304,Training Loss:0.21%,Validation Loss:17.69%,accuracy:94.53%
+    F1 socre:0.9320, AUC:0.8246, Trainset AUC:0.7215
+
+Epoch 305,Training Loss:0.24%,Validation Loss:17.96%,accuracy:94.53%
+    F1 socre:0.9278, AUC:0.7546, Trainset AUC:0.7051
+
+Epoch 306,Training Loss:0.16%,Validation Loss:14.65%,accuracy:94.53%
+    F1 socre:0.9307, AUC:0.7649, Trainset AUC:0.7407
+
+Epoch 307,Training Loss:0.23%,Validation Loss:18.26%,accuracy:94.53%
+    F1 socre:0.9320, AUC:0.7814, Trainset AUC:0.6610
+
+Epoch 308,Training Loss:0.39%,Validation Loss:16.60%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.8561, Trainset AUC:0.6991
+
+Epoch 309,Training Loss:0.77%,Validation Loss:13.67%,accuracy:95.31%
+    F1 socre:0.9362, AUC:0.7520, Trainset AUC:0.7172
+
+Epoch 310,Training Loss:0.18%,Validation Loss:21.57%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.7889, Trainset AUC:0.7539
+
+Epoch 311,Training Loss:0.27%,Validation Loss:20.67%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8521, Trainset AUC:0.7343
+
+Epoch 312,Training Loss:0.29%,Validation Loss:20.97%,accuracy:92.97%
+    F1 socre:0.9204, AUC:0.8829, Trainset AUC:0.6847
+
+Epoch 313,Training Loss:0.34%,Validation Loss:23.34%,accuracy:91.41%
+    F1 socre:0.9060, AUC:0.8514, Trainset AUC:0.6765
+
+Epoch 314,Training Loss:0.18%,Validation Loss:22.39%,accuracy:92.97%
+    F1 socre:0.9217, AUC:0.8055, Trainset AUC:0.7066
+
+Epoch 315,Training Loss:0.18%,Validation Loss:16.03%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8709, Trainset AUC:0.7464
+
+Epoch 316,Training Loss:0.12%,Validation Loss:20.61%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.8623, Trainset AUC:0.8577
+
+Epoch 317,Training Loss:0.14%,Validation Loss:19.02%,accuracy:92.97%
+    F1 socre:0.9091, AUC:0.8516, Trainset AUC:0.7722
+
+Epoch 318,Training Loss:0.18%,Validation Loss:24.99%,accuracy:92.97%
+    F1 socre:0.9244, AUC:0.8996, Trainset AUC:0.7129
+
+Epoch 319,Training Loss:0.25%,Validation Loss:18.00%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.7991, Trainset AUC:0.6818
+
+Epoch 320,Training Loss:0.19%,Validation Loss:18.90%,accuracy:93.75%
+    F1 socre:0.9286, AUC:0.8157, Trainset AUC:0.6855
+
+Epoch 321,Training Loss:0.30%,Validation Loss:18.93%,accuracy:95.31%
+    F1 socre:0.9423, AUC:0.8600, Trainset AUC:0.6526
+
+Epoch 322,Training Loss:0.22%,Validation Loss:18.82%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.8444, Trainset AUC:0.7050
+
+Epoch 323,Training Loss:0.22%,Validation Loss:14.17%,accuracy:95.31%
+    F1 socre:0.9474, AUC:0.7006, Trainset AUC:0.6806
+
+Epoch 324,Training Loss:0.28%,Validation Loss:26.00%,accuracy:92.19%
+    F1 socre:0.9138, AUC:0.9029, Trainset AUC:0.6928
+
+Epoch 325,Training Loss:0.18%,Validation Loss:23.11%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.8482, Trainset AUC:0.7103
+
+Epoch 326,Training Loss:0.13%,Validation Loss:18.32%,accuracy:92.19%
+    F1 socre:0.9107, AUC:0.8586, Trainset AUC:0.8155
+
+Epoch 327,Training Loss:0.25%,Validation Loss:23.50%,accuracy:92.97%
+    F1 socre:0.9204, AUC:0.9039, Trainset AUC:0.6865
+
+Epoch 328,Training Loss:0.14%,Validation Loss:20.72%,accuracy:92.97%
+    F1 socre:0.9109, AUC:0.8347, Trainset AUC:0.7359
+
+Epoch 329,Training Loss:0.32%,Validation Loss:18.93%,accuracy:94.53%
+    F1 socre:0.9307, AUC:0.7963, Trainset AUC:0.6867
+
+Epoch 330,Training Loss:0.16%,Validation Loss:24.21%,accuracy:91.41%
+    F1 socre:0.9009, AUC:0.8574, Trainset AUC:0.7666
+
+Epoch 331,Training Loss:0.23%,Validation Loss:19.68%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.6967, Trainset AUC:0.6680
+
+Epoch 332,Training Loss:0.14%,Validation Loss:15.32%,accuracy:94.53%
+    F1 socre:0.9369, AUC:0.8644, Trainset AUC:0.7600
+
+Epoch 333,Training Loss:0.23%,Validation Loss:23.75%,accuracy:91.41%
+    F1 socre:0.8991, AUC:0.8497, Trainset AUC:0.6771
+
+Epoch 334,Training Loss:0.23%,Validation Loss:24.31%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.8810, Trainset AUC:0.6785
+
+Epoch 335,Training Loss:0.14%,Validation Loss:15.53%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.7965, Trainset AUC:0.7651
+
+Epoch 336,Training Loss:0.21%,Validation Loss:14.49%,accuracy:94.53%
+    F1 socre:0.9358, AUC:0.8349, Trainset AUC:0.7265
+
+Epoch 337,Training Loss:0.23%,Validation Loss:20.45%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.8584, Trainset AUC:0.7257
+
+Epoch 338,Training Loss:0.34%,Validation Loss:16.04%,accuracy:94.53%
+    F1 socre:0.9381, AUC:0.9042, Trainset AUC:0.6618
+
+Epoch 339,Training Loss:0.18%,Validation Loss:21.80%,accuracy:92.97%
+    F1 socre:0.9126, AUC:0.8423, Trainset AUC:0.6895
+
+Epoch 340,Training Loss:0.55%,Validation Loss:19.14%,accuracy:94.53%
+    F1 socre:0.9320, AUC:0.8179, Trainset AUC:0.6843
+
+Epoch 341,Training Loss:0.16%,Validation Loss:19.79%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.7729, Trainset AUC:0.7435
+
+Epoch 342,Training Loss:0.37%,Validation Loss:20.63%,accuracy:93.75%
+    F1 socre:0.9200, AUC:0.6587, Trainset AUC:0.7526
+
+Epoch 343,Training Loss:0.20%,Validation Loss:13.89%,accuracy:96.09%
+    F1 socre:0.9524, AUC:0.8643, Trainset AUC:0.7479
+
+Epoch 344,Training Loss:0.21%,Validation Loss:23.20%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8302, Trainset AUC:0.7272
+
+Epoch 345,Training Loss:0.15%,Validation Loss:16.32%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8459, Trainset AUC:0.7100
+
+Epoch 346,Training Loss:0.25%,Validation Loss:22.85%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.8520, Trainset AUC:0.7035
+
+Epoch 347,Training Loss:0.17%,Validation Loss:22.61%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8388, Trainset AUC:0.7385
+
+Epoch 348,Training Loss:0.18%,Validation Loss:16.32%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8283, Trainset AUC:0.7388
+
+Epoch 349,Training Loss:0.18%,Validation Loss:22.34%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.8492, Trainset AUC:0.7329
+
+Epoch 350,Training Loss:0.15%,Validation Loss:22.50%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.8682, Trainset AUC:0.7626
+
+Epoch 351,Training Loss:0.14%,Validation Loss:16.22%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.9197, Trainset AUC:0.7403
+
+Epoch 352,Training Loss:0.14%,Validation Loss:21.29%,accuracy:93.75%
+    F1 socre:0.9167, AUC:0.8302, Trainset AUC:0.7599
+
+Epoch 353,Training Loss:0.17%,Validation Loss:19.59%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.8385, Trainset AUC:0.7367
+
+Epoch 354,Training Loss:0.13%,Validation Loss:12.52%,accuracy:95.31%
+    F1 socre:0.9434, AUC:0.8350, Trainset AUC:0.7478
+
+Epoch 355,Training Loss:0.24%,Validation Loss:23.16%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.8418, Trainset AUC:0.7101
+
+Epoch 356,Training Loss:0.19%,Validation Loss:20.49%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.7230, Trainset AUC:0.7063
+
+Epoch 357,Training Loss:0.15%,Validation Loss:15.87%,accuracy:94.53%
+    F1 socre:0.9369, AUC:0.8008, Trainset AUC:0.7571
+
+Epoch 358,Training Loss:0.17%,Validation Loss:21.28%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8387, Trainset AUC:0.7036
+
+Epoch 359,Training Loss:0.25%,Validation Loss:18.11%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8608, Trainset AUC:0.6968
+
+Epoch 360,Training Loss:0.16%,Validation Loss:21.18%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8348, Trainset AUC:0.7379
+
+Epoch 361,Training Loss:0.15%,Validation Loss:21.57%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8201, Trainset AUC:0.7414
+
+Epoch 362,Training Loss:0.15%,Validation Loss:17.55%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8636, Trainset AUC:0.7822
+
+Epoch 363,Training Loss:0.15%,Validation Loss:17.90%,accuracy:95.31%
+    F1 socre:0.9434, AUC:0.8318, Trainset AUC:0.7437
+
+Epoch 364,Training Loss:0.14%,Validation Loss:21.65%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.9007, Trainset AUC:0.7248
+
+Epoch 365,Training Loss:0.15%,Validation Loss:15.20%,accuracy:94.53%
+    F1 socre:0.9391, AUC:0.8604, Trainset AUC:0.7662
+
+Epoch 366,Training Loss:0.12%,Validation Loss:20.91%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8287, Trainset AUC:0.8336
+
+Epoch 367,Training Loss:0.17%,Validation Loss:18.97%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8621, Trainset AUC:0.7164
+
+Epoch 368,Training Loss:0.19%,Validation Loss:12.06%,accuracy:96.09%
+    F1 socre:0.9495, AUC:0.7871, Trainset AUC:0.7466
+
+Epoch 369,Training Loss:0.20%,Validation Loss:17.61%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.8151, Trainset AUC:0.7042
+
+Epoch 370,Training Loss:0.20%,Validation Loss:18.26%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8048, Trainset AUC:0.7367
+
+Epoch 371,Training Loss:0.18%,Validation Loss:14.29%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8864, Trainset AUC:0.6983
+
+Epoch 372,Training Loss:0.15%,Validation Loss:23.31%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.8959, Trainset AUC:0.7763
+
+Epoch 373,Training Loss:0.18%,Validation Loss:19.96%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8021, Trainset AUC:0.7251
+
+Epoch 374,Training Loss:0.14%,Validation Loss:21.61%,accuracy:92.97%
+    F1 socre:0.9109, AUC:0.8375, Trainset AUC:0.7556
+
+Epoch 375,Training Loss:0.20%,Validation Loss:15.56%,accuracy:95.31%
+    F1 socre:0.9464, AUC:0.8816, Trainset AUC:0.6919
+
+Epoch 376,Training Loss:0.31%,Validation Loss:15.17%,accuracy:95.31%
+    F1 socre:0.9423, AUC:0.8778, Trainset AUC:0.6644
+
+Epoch 377,Training Loss:0.20%,Validation Loss:17.53%,accuracy:94.53%
+    F1 socre:0.9293, AUC:0.8370, Trainset AUC:0.7054
+
+Epoch 378,Training Loss:0.24%,Validation Loss:20.97%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.8892, Trainset AUC:0.7074
+
+Epoch 379,Training Loss:0.14%,Validation Loss:21.08%,accuracy:93.75%
+    F1 socre:0.9167, AUC:0.7229, Trainset AUC:0.7109
+
+Epoch 380,Training Loss:0.21%,Validation Loss:20.88%,accuracy:93.75%
+    F1 socre:0.9200, AUC:0.7800, Trainset AUC:0.6667
+
+Epoch 381,Training Loss:0.23%,Validation Loss:21.92%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.8551, Trainset AUC:0.6888
+
+Epoch 382,Training Loss:0.17%,Validation Loss:15.36%,accuracy:94.53%
+    F1 socre:0.9320, AUC:0.8326, Trainset AUC:0.6558
+
+Epoch 383,Training Loss:0.11%,Validation Loss:21.02%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8792, Trainset AUC:0.8331
+
+Epoch 384,Training Loss:0.16%,Validation Loss:10.49%,accuracy:95.31%
+    F1 socre:0.9455, AUC:0.8509, Trainset AUC:0.7006
+
+Epoch 385,Training Loss:0.20%,Validation Loss:18.46%,accuracy:95.31%
+    F1 socre:0.9434, AUC:0.8408, Trainset AUC:0.6970
+
+Epoch 386,Training Loss:0.20%,Validation Loss:18.64%,accuracy:94.53%
+    F1 socre:0.9358, AUC:0.6951, Trainset AUC:0.6843
+
+Epoch 387,Training Loss:0.16%,Validation Loss:21.24%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8934, Trainset AUC:0.7626
+
+Epoch 388,Training Loss:0.16%,Validation Loss:22.95%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.8356, Trainset AUC:0.7545
+
+Epoch 389,Training Loss:0.14%,Validation Loss:15.07%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8712, Trainset AUC:0.7855
+
+Epoch 390,Training Loss:0.15%,Validation Loss:22.72%,accuracy:92.19%
+    F1 socre:0.9000, AUC:0.8731, Trainset AUC:0.8220
+
+Epoch 391,Training Loss:0.12%,Validation Loss:19.07%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8651, Trainset AUC:0.8470
+
+Epoch 392,Training Loss:0.14%,Validation Loss:21.38%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8729, Trainset AUC:0.7734
+
+Epoch 393,Training Loss:0.15%,Validation Loss:23.36%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8651, Trainset AUC:0.7164
+
+Epoch 394,Training Loss:0.18%,Validation Loss:21.97%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.8321, Trainset AUC:0.7740
+
+Epoch 395,Training Loss:0.14%,Validation Loss:19.85%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.8235, Trainset AUC:0.7129
+
+Epoch 396,Training Loss:0.14%,Validation Loss:17.64%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8530, Trainset AUC:0.7405
+
+Epoch 397,Training Loss:0.19%,Validation Loss:19.20%,accuracy:92.19%
+    F1 socre:0.9107, AUC:0.8747, Trainset AUC:0.6792
+
+Epoch 398,Training Loss:0.13%,Validation Loss:20.69%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.7834, Trainset AUC:0.7693
+
+Epoch 399,Training Loss:0.19%,Validation Loss:15.37%,accuracy:95.31%
+    F1 socre:0.9455, AUC:0.8709, Trainset AUC:0.6908
+
+Epoch 400,Training Loss:0.12%,Validation Loss:21.97%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8322, Trainset AUC:0.8226
+
+Epoch 401,Training Loss:0.17%,Validation Loss:23.08%,accuracy:92.19%
+    F1 socre:0.9091, AUC:0.8699, Trainset AUC:0.7178
+
+Epoch 402,Training Loss:0.32%,Validation Loss:23.14%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8689, Trainset AUC:0.7446
+
+Epoch 403,Training Loss:0.22%,Validation Loss:20.16%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8272, Trainset AUC:0.6617
+
+Epoch 404,Training Loss:0.30%,Validation Loss:19.32%,accuracy:92.97%
+    F1 socre:0.9109, AUC:0.8677, Trainset AUC:0.7405
+
+Epoch 405,Training Loss:0.14%,Validation Loss:19.15%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.8690, Trainset AUC:0.7403
+
+Epoch 406,Training Loss:0.13%,Validation Loss:19.12%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.8414, Trainset AUC:0.7493
+
+Epoch 407,Training Loss:0.13%,Validation Loss:15.86%,accuracy:96.09%
+    F1 socre:0.9505, AUC:0.8072, Trainset AUC:0.8307
+
+Epoch 408,Training Loss:0.16%,Validation Loss:22.12%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8041, Trainset AUC:0.7262
+
+Epoch 409,Training Loss:0.16%,Validation Loss:20.65%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8708, Trainset AUC:0.7093
+
+Epoch 410,Training Loss:0.17%,Validation Loss:21.49%,accuracy:94.53%
+    F1 socre:0.9391, AUC:0.8280, Trainset AUC:0.7441
+
+Epoch 411,Training Loss:0.26%,Validation Loss:16.68%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.7695, Trainset AUC:0.6511
+
+Epoch 412,Training Loss:0.26%,Validation Loss:15.90%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8533, Trainset AUC:0.6959
+
+Epoch 413,Training Loss:0.12%,Validation Loss:19.74%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8163, Trainset AUC:0.7564
+
+Epoch 414,Training Loss:0.24%,Validation Loss:16.87%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.8686, Trainset AUC:0.7409
+
+Epoch 415,Training Loss:0.18%,Validation Loss:13.07%,accuracy:96.09%
+    F1 socre:0.9524, AUC:0.8133, Trainset AUC:0.7296
+
+Epoch 416,Training Loss:0.15%,Validation Loss:17.54%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8696, Trainset AUC:0.7027
+
+Epoch 417,Training Loss:0.31%,Validation Loss:21.89%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.8151, Trainset AUC:0.6878
+
+Epoch 418,Training Loss:0.16%,Validation Loss:24.31%,accuracy:91.41%
+    F1 socre:0.9043, AUC:0.8598, Trainset AUC:0.6799
+
+Epoch 419,Training Loss:0.21%,Validation Loss:16.38%,accuracy:96.09%
+    F1 socre:0.9524, AUC:0.7434, Trainset AUC:0.6184
+
+Epoch 420,Training Loss:0.24%,Validation Loss:18.53%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.8829, Trainset AUC:0.6793
+
+Epoch 421,Training Loss:0.22%,Validation Loss:23.21%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8715, Trainset AUC:0.7486
+
+Epoch 422,Training Loss:0.19%,Validation Loss:15.48%,accuracy:96.09%
+    F1 socre:0.9533, AUC:0.8352, Trainset AUC:0.7755
+
+Epoch 423,Training Loss:0.19%,Validation Loss:21.47%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8810, Trainset AUC:0.6807
+
+Epoch 424,Training Loss:0.23%,Validation Loss:17.65%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8247, Trainset AUC:0.6760
+
+Epoch 425,Training Loss:0.26%,Validation Loss:22.39%,accuracy:93.75%
+    F1 socre:0.9286, AUC:0.8590, Trainset AUC:0.6694
+
+Epoch 426,Training Loss:0.20%,Validation Loss:22.17%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8212, Trainset AUC:0.7147
+
+Epoch 427,Training Loss:0.18%,Validation Loss:21.18%,accuracy:92.97%
+    F1 socre:0.9217, AUC:0.8733, Trainset AUC:0.7277
+
+Epoch 428,Training Loss:0.28%,Validation Loss:18.46%,accuracy:93.75%
+    F1 socre:0.9298, AUC:0.8187, Trainset AUC:0.7076
+
+Epoch 429,Training Loss:0.19%,Validation Loss:19.91%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.8449, Trainset AUC:0.7045
+
+Epoch 430,Training Loss:0.22%,Validation Loss:14.76%,accuracy:96.09%
+    F1 socre:0.9515, AUC:0.6519, Trainset AUC:0.6694
+
+Epoch 431,Training Loss:0.22%,Validation Loss:17.46%,accuracy:95.31%
+    F1 socre:0.9434, AUC:0.7879, Trainset AUC:0.7481
+
+Epoch 432,Training Loss:0.14%,Validation Loss:19.24%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8639, Trainset AUC:0.7693
+
+Epoch 433,Training Loss:0.17%,Validation Loss:21.96%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8447, Trainset AUC:0.7729
+
+Epoch 434,Training Loss:0.14%,Validation Loss:21.05%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8826, Trainset AUC:0.7338
+
+Epoch 435,Training Loss:0.24%,Validation Loss:22.45%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.9041, Trainset AUC:0.6845
+
+Epoch 436,Training Loss:0.36%,Validation Loss:22.39%,accuracy:92.19%
+    F1 socre:0.9123, AUC:0.8501, Trainset AUC:0.6519
+
+Epoch 437,Training Loss:0.18%,Validation Loss:21.01%,accuracy:94.53%
+    F1 socre:0.9293, AUC:0.8181, Trainset AUC:0.6808
+
+Epoch 438,Training Loss:0.15%,Validation Loss:18.77%,accuracy:92.19%
+    F1 socre:0.9000, AUC:0.8169, Trainset AUC:0.7524
+
+Epoch 439,Training Loss:0.20%,Validation Loss:23.05%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8441, Trainset AUC:0.7001
+
+Epoch 440,Training Loss:0.14%,Validation Loss:20.92%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8485, Trainset AUC:0.7674
+
+Epoch 441,Training Loss:0.13%,Validation Loss:17.19%,accuracy:93.75%
+    F1 socre:0.9298, AUC:0.8371, Trainset AUC:0.7776
+
+Epoch 442,Training Loss:0.24%,Validation Loss:22.62%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.9213, Trainset AUC:0.7742
+
+Epoch 443,Training Loss:0.17%,Validation Loss:23.18%,accuracy:93.75%
+    F1 socre:0.9245, AUC:0.8532, Trainset AUC:0.7276
+
+Epoch 444,Training Loss:0.27%,Validation Loss:16.98%,accuracy:94.53%
+    F1 socre:0.9369, AUC:0.8501, Trainset AUC:0.6701
+
+Epoch 445,Training Loss:0.23%,Validation Loss:11.07%,accuracy:96.09%
+    F1 socre:0.9515, AUC:0.8521, Trainset AUC:0.6740
+
+Epoch 446,Training Loss:0.19%,Validation Loss:24.50%,accuracy:91.41%
+    F1 socre:0.8972, AUC:0.8683, Trainset AUC:0.6923
+
+Epoch 447,Training Loss:0.33%,Validation Loss:14.30%,accuracy:95.31%
+    F1 socre:0.9444, AUC:0.7240, Trainset AUC:0.7331
+
+Epoch 448,Training Loss:0.31%,Validation Loss:18.03%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8414, Trainset AUC:0.7106
+
+Epoch 449,Training Loss:0.16%,Validation Loss:21.37%,accuracy:94.53%
+    F1 socre:0.9307, AUC:0.8356, Trainset AUC:0.7025
+
+Epoch 450,Training Loss:0.20%,Validation Loss:25.10%,accuracy:91.41%
+    F1 socre:0.8972, AUC:0.8811, Trainset AUC:0.7347
+
+Epoch 451,Training Loss:0.14%,Validation Loss:20.99%,accuracy:94.53%
+    F1 socre:0.9358, AUC:0.8341, Trainset AUC:0.7789
+
+Epoch 452,Training Loss:0.28%,Validation Loss:19.83%,accuracy:93.75%
+    F1 socre:0.9149, AUC:0.7399, Trainset AUC:0.6315
+
+Epoch 453,Training Loss:0.22%,Validation Loss:21.42%,accuracy:94.53%
+    F1 socre:0.9307, AUC:0.7595, Trainset AUC:0.6494
+
+Epoch 454,Training Loss:0.18%,Validation Loss:24.51%,accuracy:92.19%
+    F1 socre:0.9038, AUC:0.8490, Trainset AUC:0.7070
+
+Epoch 455,Training Loss:0.22%,Validation Loss:20.78%,accuracy:92.97%
+    F1 socre:0.9126, AUC:0.8726, Trainset AUC:0.6924
+
+Epoch 456,Training Loss:0.15%,Validation Loss:22.84%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8651, Trainset AUC:0.7414
+
+Epoch 457,Training Loss:0.14%,Validation Loss:21.96%,accuracy:92.97%
+    F1 socre:0.9204, AUC:0.8316, Trainset AUC:0.7835
+
+Epoch 458,Training Loss:0.13%,Validation Loss:21.69%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8348, Trainset AUC:0.7596
+
+Epoch 459,Training Loss:0.16%,Validation Loss:14.90%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8921, Trainset AUC:0.7349
+
+Epoch 460,Training Loss:0.18%,Validation Loss:16.56%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8555, Trainset AUC:0.7207
+
+Epoch 461,Training Loss:0.22%,Validation Loss:21.23%,accuracy:92.97%
+    F1 socre:0.9189, AUC:0.8942, Trainset AUC:0.6889
+
+Epoch 462,Training Loss:0.14%,Validation Loss:21.17%,accuracy:93.75%
+    F1 socre:0.9200, AUC:0.8742, Trainset AUC:0.7324
+
+Epoch 463,Training Loss:0.16%,Validation Loss:13.51%,accuracy:96.09%
+    F1 socre:0.9533, AUC:0.7635, Trainset AUC:0.6962
+
+Epoch 464,Training Loss:0.18%,Validation Loss:19.05%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.8332, Trainset AUC:0.7156
+
+Epoch 465,Training Loss:0.14%,Validation Loss:17.58%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.8211, Trainset AUC:0.7858
+
+Epoch 466,Training Loss:0.16%,Validation Loss:14.90%,accuracy:94.53%
+    F1 socre:0.9320, AUC:0.8374, Trainset AUC:0.7626
+
+Epoch 467,Training Loss:0.20%,Validation Loss:18.55%,accuracy:94.53%
+    F1 socre:0.9307, AUC:0.8880, Trainset AUC:0.6866
+
+Epoch 468,Training Loss:0.22%,Validation Loss:23.88%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.8682, Trainset AUC:0.6933
+
+Epoch 469,Training Loss:0.17%,Validation Loss:20.61%,accuracy:94.53%
+    F1 socre:0.9358, AUC:0.8453, Trainset AUC:0.7336
+
+Epoch 470,Training Loss:0.18%,Validation Loss:22.55%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.8905, Trainset AUC:0.7328
+
+Epoch 471,Training Loss:0.25%,Validation Loss:18.79%,accuracy:94.53%
+    F1 socre:0.9320, AUC:0.8136, Trainset AUC:0.6052
+
+Epoch 472,Training Loss:0.15%,Validation Loss:18.80%,accuracy:93.75%
+    F1 socre:0.9286, AUC:0.8599, Trainset AUC:0.7404
+
+Epoch 473,Training Loss:0.33%,Validation Loss:23.78%,accuracy:91.41%
+    F1 socre:0.9009, AUC:0.8586, Trainset AUC:0.7004
+
+Epoch 474,Training Loss:0.17%,Validation Loss:26.68%,accuracy:92.19%
+    F1 socre:0.9107, AUC:0.8709, Trainset AUC:0.7490
+
+Epoch 475,Training Loss:0.18%,Validation Loss:23.49%,accuracy:92.97%
+    F1 socre:0.9159, AUC:0.8765, Trainset AUC:0.7259
+
+Epoch 476,Training Loss:0.24%,Validation Loss:20.02%,accuracy:93.75%
+    F1 socre:0.9200, AUC:0.7877, Trainset AUC:0.6865
+
+Epoch 477,Training Loss:0.19%,Validation Loss:19.91%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.8602, Trainset AUC:0.6944
+
+Epoch 478,Training Loss:0.23%,Validation Loss:20.78%,accuracy:94.53%
+    F1 socre:0.9346, AUC:0.6894, Trainset AUC:0.6864
+
+Epoch 479,Training Loss:0.17%,Validation Loss:15.04%,accuracy:95.31%
+    F1 socre:0.9455, AUC:0.7783, Trainset AUC:0.7354
+
+Epoch 480,Training Loss:0.21%,Validation Loss:21.19%,accuracy:92.97%
+    F1 socre:0.9143, AUC:0.8826, Trainset AUC:0.6960
+
+Epoch 481,Training Loss:0.15%,Validation Loss:21.02%,accuracy:94.53%
+    F1 socre:0.9293, AUC:0.7812, Trainset AUC:0.7260
+
+Epoch 482,Training Loss:0.17%,Validation Loss:22.53%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8365, Trainset AUC:0.7120
+
+Epoch 483,Training Loss:0.17%,Validation Loss:20.91%,accuracy:95.31%
+    F1 socre:0.9388, AUC:0.8474, Trainset AUC:0.8198
+
+Epoch 484,Training Loss:0.19%,Validation Loss:19.95%,accuracy:94.53%
+    F1 socre:0.9307, AUC:0.7398, Trainset AUC:0.7230
+
+Epoch 485,Training Loss:0.23%,Validation Loss:20.33%,accuracy:94.53%
+    F1 socre:0.9358, AUC:0.8247, Trainset AUC:0.6616
+
+Epoch 486,Training Loss:0.25%,Validation Loss:17.18%,accuracy:93.75%
+    F1 socre:0.9273, AUC:0.7721, Trainset AUC:0.7696
+
+Epoch 487,Training Loss:0.17%,Validation Loss:21.55%,accuracy:92.19%
+    F1 socre:0.9123, AUC:0.8493, Trainset AUC:0.7424
+
+Epoch 488,Training Loss:0.29%,Validation Loss:17.75%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8826, Trainset AUC:0.6776
+
+Epoch 489,Training Loss:0.23%,Validation Loss:19.64%,accuracy:94.53%
+    F1 socre:0.9333, AUC:0.8454, Trainset AUC:0.7068
+
+Epoch 490,Training Loss:0.20%,Validation Loss:23.66%,accuracy:92.19%
+    F1 socre:0.9057, AUC:0.8645, Trainset AUC:0.6557
+
+Epoch 491,Training Loss:0.25%,Validation Loss:18.06%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8322, Trainset AUC:0.6746
+
+Epoch 492,Training Loss:0.24%,Validation Loss:19.22%,accuracy:92.19%
+    F1 socre:0.9074, AUC:0.8560, Trainset AUC:0.6796
+
+Epoch 493,Training Loss:0.23%,Validation Loss:20.66%,accuracy:93.75%
+    F1 socre:0.9259, AUC:0.8330, Trainset AUC:0.6514
+
+Epoch 494,Training Loss:0.14%,Validation Loss:21.66%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.8507, Trainset AUC:0.7747
+
+Epoch 495,Training Loss:0.25%,Validation Loss:20.79%,accuracy:93.75%
+    F1 socre:0.9216, AUC:0.8390, Trainset AUC:0.6741
+
+Epoch 496,Training Loss:0.21%,Validation Loss:18.08%,accuracy:92.19%
+    F1 socre:0.9091, AUC:0.8352, Trainset AUC:0.7185
+
+Epoch 497,Training Loss:0.35%,Validation Loss:24.55%,accuracy:91.41%
+    F1 socre:0.8991, AUC:0.8525, Trainset AUC:0.7071
+
+Epoch 498,Training Loss:0.15%,Validation Loss:21.32%,accuracy:93.75%
+    F1 socre:0.9231, AUC:0.8690, Trainset AUC:0.7476
+
+Epoch 499,Training Loss:0.15%,Validation Loss:22.18%,accuracy:92.97%
+    F1 socre:0.9174, AUC:0.8505, Trainset AUC:0.7662
+
+
+Training complete in 71m 30s
+The best f1_socre is 0.9714 in epoch 278. Test loss is 7.44%, acc is 97.66%, auc is 0.8578
